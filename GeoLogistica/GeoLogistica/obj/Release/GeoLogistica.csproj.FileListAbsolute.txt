@@ -1,0 +1,5 @@
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\bin\GeoLogistica.dll
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\bin\GeoLogistica.pdb
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\obj\Release\GeoLogistica.dll
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\obj\Release\GeoLogistica.pdb
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\obj\Release\GeoLogistica.csprojResolveAssemblyReference.cache

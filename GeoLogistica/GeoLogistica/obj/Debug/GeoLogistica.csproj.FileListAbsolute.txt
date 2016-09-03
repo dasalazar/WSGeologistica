@@ -1,0 +1,9 @@
+c:\users\dsalazar\documents\visual studio 2010\Projects\GeoLogistica\GeoLogistica\bin\GeoLogistica.dll
+c:\users\dsalazar\documents\visual studio 2010\Projects\GeoLogistica\GeoLogistica\bin\GeoLogistica.pdb
+c:\users\dsalazar\documents\visual studio 2010\Projects\GeoLogistica\GeoLogistica\obj\Debug\GeoLogistica.dll
+c:\users\dsalazar\documents\visual studio 2010\Projects\GeoLogistica\GeoLogistica\obj\Debug\GeoLogistica.pdb
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\obj\Debug\GeoLogistica.dll
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\bin\GeoLogistica.dll
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\bin\GeoLogistica.pdb
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\obj\Debug\GeoLogistica.pdb
+C:\Users\dodo\Desktop\GeoLogistica\GeoLogistica\obj\Debug\GeoLogistica.csprojResolveAssemblyReference.cache
